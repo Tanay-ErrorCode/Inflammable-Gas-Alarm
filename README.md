@@ -38,7 +38,8 @@ This system works with an Android app to:
 
 Below is the circuit diagram illustrating the hardware setup of the project. It shows the connections between the ESP32, gas sensor, buzzer, OLED display, and other components.
 
-![diagram](https://github.com/user-attachments/assets/883d6de7-e0e1-4854-876b-3fc87c4b9334)
+![diagram](https://github.com/user-attachments/assets/07d68cf8-6faa-4305-bd54-29c6715fa3dd)
+
 
 ---
 
